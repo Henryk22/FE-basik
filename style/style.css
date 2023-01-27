@@ -1,0 +1,16 @@
+img {
+width: 280px;
+height: 200px;
+}
+p {
+    color: green;
+    font-size: 28px;
+    display: inline;
+}
+.paragraf {
+
+color: darkred;
+}
+#p2 {
+    color: blue;
+}
